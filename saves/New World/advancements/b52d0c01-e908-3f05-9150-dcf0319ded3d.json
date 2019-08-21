@@ -1,0 +1,50 @@
+{
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-07-25 22:30:50 +0300"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-07-25 22:30:50 +0300"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "tutorial:key"
+  },
+  "pattern": [
+    "aa ",
+    " a ",
+    "bab"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "a": {
+      "item": "tutorial:redonite_ingot"
+    },
+    "b": {
+      "type": "forge:ore_dict",
+      "ore": "ingotGold"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "tutorial:blocks/keyhole_front",
+    "down": "tutorial:blocks/keyhole_side",
+    "up": "tutorial:blocks/keyhole_side",
+    "east": "tutorial:blocks/keyhole_side",
+    "west": "tutorial:blocks/keyhole_side",
+    "north": "tutorial:blocks/keyhole_front",
+    "south": "tutorial:blocks/keyhole_side"
+  }
+}
