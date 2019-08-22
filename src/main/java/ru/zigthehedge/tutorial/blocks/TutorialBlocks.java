@@ -15,11 +15,15 @@ public class TutorialBlocks {
     @GameRegistry.ObjectHolder(Tutorial.MODID + ":keyhole")
     public static KeyHole keyHole;
 
+    @GameRegistry.ObjectHolder(Tutorial.MODID + ":lockedchest")
+    public static LockedChest lockedChest;
+
     @SideOnly(Side.CLIENT)
     public static void initModels() {
         bathroomTile.initModel();
         redoniteOre.initModel();
         keyHole.initModel();
+        lockedChest.initModel();
     }
 
     @SideOnly(Side.CLIENT)
@@ -27,6 +31,7 @@ public class TutorialBlocks {
         bathroomTile.initItemModel();
         redoniteOre.initItemModel();
         keyHole.initItemModel();
+        lockedChest.initItemModel();
     }
 
     public static void registerOreDictionary()

@@ -12,6 +12,9 @@ public class Tutorial {
     public static final String NAME = "Tutorial Mod";
     public static final String VERSION = "1.0";
 
+    @Mod.Instance(Tutorial.MODID)
+    public static Tutorial instance;
+
     @SidedProxy(clientSide = "ru.zigthehedge.tutorial.ClientProxy", serverSide = "ru.zigthehedge.tutorial.CommonProxy")
     public static CommonProxy proxy;
 
