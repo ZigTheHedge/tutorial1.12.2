@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "tutorial:blocks/lockedchest_front",
+    "down": "tutorial:blocks/lockedchest_top",
+    "up": "tutorial:blocks/lockedchest_top",
+    "east": "tutorial:blocks/lockedchest_side",
+    "west": "tutorial:blocks/lockedchest_side",
+    "north": "tutorial:blocks/lockedchest_front_unlocked",
+    "south": "tutorial:blocks/lockedchest_side"
+  }
+}
